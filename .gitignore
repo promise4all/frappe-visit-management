@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Frappe/Bench
+assets/
+node_modules/
+*.log
+*.sqlite3
+site_config.json
+.env
+
+# Editors/OS
+.DS_Store
+.vscode/
+.idea/
+*.swp
